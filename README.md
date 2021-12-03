@@ -3,7 +3,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/zetsuit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zetsuit" height="30" width="40" /></a>
 <a href="https://discord.gg/Gup#0505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gup#0505" height="30" width="40" /></a>
 </p>
 
